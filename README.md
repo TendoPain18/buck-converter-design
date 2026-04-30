@@ -3,7 +3,7 @@
 A complete design and simulation of a **DC-DC Buck (Step-Down) Converter**, including theoretical derivations, component calculations, and LTSpice circuit simulation.
 
 <div align="center">
-  <img src="images/thumbnail.jpg" alt="Buck Converter Design" width="800"/>
+  <img src="images/thumbnail.png" alt="Buck Converter Design" width="800"/>
 </div>
 
 <br>
